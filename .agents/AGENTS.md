@@ -74,3 +74,9 @@ Whenever the user provides a Chapter number, a plot snippet, or asks to continue
 1. Identify the core events from the original canon.
 2. Re-architect the chapter title into a systems/rationalist equivalent.
 3. Write the full narrative in Vietnamese adhering strictly to the tone, systems world-model, and the bolded English-annotation formatting rule.
+
+---
+
+# INSTRUCTIONS FOR GIT
+
+Sau khi dịch xong 1 chương thì lưu nó vào đúng folder rồi commit và push.
